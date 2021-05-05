@@ -1,2 +1,2 @@
 # Assignment3
-## In this project, by referring to the double moving average investment strategy in the research report, the target was adjusted from derivatives to specific stocks and the double moving average strategy was used for backtesting, which achieved good results
+## In this project, by referring to the double moving average investment strategy in the research report, the target was adjusted from derivatives to specific stocks "002340" and the double moving average strategy was used for backtesting, which achieved good results.The code also realizes the calculation of various benefit indexes of the strategy, such as annualized rate of return, Sharpe rate, RS index and so on.
